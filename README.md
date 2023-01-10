@@ -21,7 +21,7 @@ This dataset is a collection of datasets from different sources related to the a
 * Once the data is cleaned, I used **WordEmbedding** technique to convert words into vectors.
 
 ### ☁️ Word Cloud
-![Toxic Word Cloud](https://user-images.githubusercontent.com/81012989/164935432-667a37e3-6035-4784-bd3b-ee5d26b1358c.png)
+![Toxic Word Cloud](https://github.com/Abhissaro/Cyber-Bully-twitter-tweet-Classification/blob/288a0256452709dd129e138ad4963711e3595adb/world%20cloud.png)
 
 ### ⚙ Model Training:
 * The model is trained using **BidirectionalLSTM** with a vocabulary size of 16K and each word reprented by a vector of length 300.
